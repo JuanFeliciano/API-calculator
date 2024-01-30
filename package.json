@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/server.tsx"
+    "dev": "tsx watch src/server.ts"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@prisma/client": "^5.9.0",
     "fastify": "^4.26.0"
   }
 }
