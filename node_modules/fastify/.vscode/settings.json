@@ -1,0 +1,22 @@
+{
+  "workbench.colorCustomizations": {
+    "[GitHub Dark]": {
+      "tab.activeBackground": "#0d0d0d",
+      "tab.activeBorder": "#ffff00"
+    },
+    "activityBar.background": "#BEE077",
+    "activityBar.foreground": "#1C6B58",
+    "activityBar.inactiveForeground": "#444444",
+    "activityBar.activeBorder": "#411f88",
+    "activityBar.activeBackground": "#2F9980",
+    "activityBar.border": "#2F9980",
+    "titleBar.activeBackground": "#A6D83D",
+    "titleBar.activeForeground": "#1C6B58",
+    "titleBar.inactiveBackground": "#9cbb5a",
+    "titleBar.inactiveForeground": "#444444",
+    "titleBar.border": "#2F9980",
+    "statusBar.background": "#98C538",
+    "statusBar.foreground": "#1C6B58",
+    "statusBar.border": "#2F9980"
+  }
+}
