@@ -1,7 +1,40 @@
+
+#Função de Adição
 POST http://localhost:3000/sum
 Content-Type: application/json
 
 {
-  "numberone": 34729,
-  "numbertwo": 15
+  "numberone": 9,
+  "numbertwo": 20
+}
+
+###
+#Função de Subtração
+POST http://localhost:3000/sub
+Content-Type: application/json
+
+{
+  "numberone": ,
+  "numbertwo": 
+}
+
+
+###
+# Função de Multiplicação
+POST http://localhost:3000/mult
+Content-Type: application/json
+
+{
+  "numberone": ,
+  "numbertwo": 
+}
+
+###
+#Função de Divisão
+POST http://localhost:3000/div
+Content-Type: application/json
+
+{
+  "numberone": ,
+  "numbertwo": 
 }
